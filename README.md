@@ -33,10 +33,11 @@ After a deep analysis, will be necessary 63,173 included seven different titles 
 ---
 
 Using the next query:
-SELECT COUNT (title) as count, title
-FROM mentorship_elegibility
-GROUP BY title
-ORDER BY count DESC
+   
+    SELECT COUNT (title) as count, title
+    FROM mentorship_elegibility
+    GROUP BY title
+    ORDER BY count DESC
 
 Output the next table
 
