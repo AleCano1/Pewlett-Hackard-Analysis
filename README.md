@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-Pewlett Hackard is a large company with thousands of employees, the company is looking for the future, first, it is offering a retirement package for ones to achieve the criteria, and second, which position will need in each area in the near future.
+Pewlett Hackard is a large company with thousands of employees, the company is looking for the future. First, it is offering a retirement package for ones to achieve the criteria, and second, which position will need in each area in the near future.
 
 ## Overview of Project 
 ### Purpose 
